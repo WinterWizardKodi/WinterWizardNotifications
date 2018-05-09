@@ -1,15 +1,15 @@
 1 
 ||| 
-How to use the Winter Kodi build.
+To view instructions on how to use this build;
+• On any device, visit - https://pastebin.com/raw/jeF1DQCE
 
-Watching Movies and TV Shows -                Watching Sports -
- • Hover over either Movies or TV Shows________• Go to your Amazon home screen
- • Press left__________________________________• Load the app called "Acestream Engine" until sign in screen, do not sign in however
- • Select an addon_____________________________• Go to your Amazon home screen
- • Browse through the addon menus______________• Load Kodi
- or____________________________________________• Hover over Sports
- • Hover over either Movies or TV Shows________• Press left and choose "Sparkle" or "Not Sure"
- • Select it___________________________________• Find the sport, find the match
- • Browse through the addon menus______________• Look for an "acestream://" link
- 
-
+To disable these notifications;
+• Select Settings
+• Select add-ons
+• Select my add-ons
+• Select Program add-ons
+• Select Winter notifications
+• Select configure
+• Select unsubscribe
+• Select ok
+• Go back to home screen
