@@ -3,13 +3,13 @@
 How to use the Winter Kodi build.
 
 Watching Movies and TV Shows -                Watching Sports -
- • Hover over either Movies or TV Shows        • Go to your Amazon home screen
- • Press left                                  • Load the app called "Acestream Engine" until sign in screen, do not sign in however
- • Select an addon                             • Go to your Amazon home screen
- • Browse through the addon menus              • Load Kodi
- or                                            • Hover over Sports
- • Hover over either Movies or TV Shows        • Press left and choose "Sparkle" or "Not Sure"
- • Select it                                   • Find the sport, find the match
- • Browse through the addon menus              • Look for an "acestream://" link
+ • Hover over either Movies or TV Shows________• Go to your Amazon home screen
+ • Press left__________________________________• Load the app called "Acestream Engine" until sign in screen, do not sign in however
+ • Select an addon_____________________________• Go to your Amazon home screen
+ • Browse through the addon menus______________• Load Kodi
+ or____________________________________________• Hover over Sports
+ • Hover over either Movies or TV Shows________• Press left and choose "Sparkle" or "Not Sure"
+ • Select it___________________________________• Find the sport, find the match
+ • Browse through the addon menus______________• Look for an "acestream://" link
  
 
